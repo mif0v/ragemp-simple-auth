@@ -9,8 +9,9 @@ Usual user authorization for Rage MP platform using Vue JS, MongoDB.
 ## How to edit the CEF?
 1. Install npm package [@vue/cli](https://cli.vuejs.org/).
 2. Create a new Vue project with version 3.0.
-3. Move all files from "VueJS" folder to new vue-cli project.
-4. All other actions are performed from the vue-cli library.
+3. In the new Vue project, delete public and src folders.
+4. Move all files from "VueJS" folder to new vue-cli project.
+5. All other actions are performed from the vue-cli library.
 ## Screenshots
 ![First image](https://i.imgur.com/8XnNQvl.png)
 ![Second image](https://i.imgur.com/tF0WpfG.png)
